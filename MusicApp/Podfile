@@ -1,0 +1,8 @@
+
+target 'MusicApp' do
+  use_frameworks!
+  pod 'Moya'
+  pod 'Moya-ObjectMapper'
+  pod 'SDWebImage'
+
+end
